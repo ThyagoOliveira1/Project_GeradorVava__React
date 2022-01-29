@@ -1,0 +1,35 @@
+.cabecalho {
+    background-color: #252323;
+    color: #fdfdfd;
+    font-family: var(--montserrat);
+    text-align: center;
+}
+
+.container {
+    align-items: baseline;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.cabecalho_nav {
+    font-size: 1.2rem;
+}
+
+.cabecalho_nav_link {
+    font-size: 1.2em;
+    text-decoration: none;
+    margin-left: 2em;
+}
+
+@media screen and (min-width: 768px) {
+    .cabecalho{
+        flex-direction: row-reverse;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .cabecalho{
+        flex-direction: row-reverse;
+    }
+}
