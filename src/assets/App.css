@@ -1,14 +1,12 @@
-:root{ 
-  --montserrat: 'Montserrat', sans-serif;
+:root {
+  --montserrat: "Montserrat", sans-serif;
 }
 
-body{
-  font-family: 'Open Sans', sans-serif;
+body {
+  font-family: "Open Sans", sans-serif;
 }
 
-@media screen and (min-width: 1024px) {
-  .container {
-      padding-left: calc((100% - 1250px)/2);
-      padding-right: calc((100% - 1250px)/2);
-  }
+.container {
+  margin: auto;
+  width: 80%;
 }
