@@ -14,6 +14,7 @@ class FormImput extends Component {
               type="text"
               id="jogador1"
               className="montarTimes_input-1"
+              data-form-input 
               required
             />
           </div>
@@ -25,6 +26,7 @@ class FormImput extends Component {
               type="text"
               id="jogador2"
               className="montarTimes_input-1"
+              data-form-input 
               required
             />
           </div>
@@ -36,6 +38,7 @@ class FormImput extends Component {
               type="text"
               id="jogador3"
               className="montarTimes_input-1"
+              data-form-input 
               required
             />
           </div>
@@ -47,6 +50,7 @@ class FormImput extends Component {
               type="text"
               id="jogador4"
               className="montarTimes_input-1"
+              data-form-input 
               required
             />
           </div>
@@ -58,6 +62,7 @@ class FormImput extends Component {
               type="text"
               id="jogador5"
               className="montarTimes_input-1"
+              data-form-input 
               required
             />
           </div>
@@ -71,6 +76,7 @@ class FormImput extends Component {
               type="text"
               id="jogador6"
               className="montarTimes_input-1"
+              data-form-input 
               required
             />
           </div>
@@ -82,6 +88,7 @@ class FormImput extends Component {
               type="text"
               id="jogador7"
               className="montarTimes_input-1"
+              data-form-input 
               required
             />
           </div>
@@ -93,6 +100,7 @@ class FormImput extends Component {
               type="text"
               id="jogador8"
               className="montarTimes_input-1"
+              data-form-input 
               required
             />
           </div>
@@ -104,6 +112,7 @@ class FormImput extends Component {
               type="text"
               id="jogador9"
               className="montarTimes_input-1"
+              data-form-input 
               required
             />
           </div>
@@ -115,6 +124,7 @@ class FormImput extends Component {
               type="text"
               id="jogador10"
               className="montarTimes_input-1"
+              data-form-input 
               required
             />
           </div>

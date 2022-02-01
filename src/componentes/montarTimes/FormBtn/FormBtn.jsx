@@ -9,6 +9,7 @@ class FormBtn extends Component {
           type="button"
           value="Gerar Times"
           className="montarTimes_botao-gerar"
+          data-form-submit
         />
         <input
           type="button"
