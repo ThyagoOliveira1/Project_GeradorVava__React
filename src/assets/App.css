@@ -1,5 +1,8 @@
 :root {
   --montserrat: "Montserrat", sans-serif;
+  --fundo1: #F5F1ED;
+  --fundo2: #9C89B8;
+  --colorGeral: #252323;
 }
 
 body {

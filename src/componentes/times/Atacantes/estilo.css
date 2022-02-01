@@ -1,0 +1,12 @@
+.atacantes_output-1 {
+  border-radius: 5px;
+  display: inline-block;
+  margin-bottom: 1rem;
+  margin-top: 5px;
+  text-align: left;
+  width: auto;
+}
+
+.atacantes_output-label {
+  font-size: 1rem;
+}

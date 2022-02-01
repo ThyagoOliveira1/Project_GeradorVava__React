@@ -1,5 +1,5 @@
 .cabecalho {
-  background-color: #252323;
+  background-color: var(--colorGeral);
   color: #fdfdfd;
   font-family: var(--montserrat);
   text-align: center;

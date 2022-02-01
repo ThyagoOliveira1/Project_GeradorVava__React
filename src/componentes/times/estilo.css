@@ -1,0 +1,31 @@
+.times {
+  background-color: var(--fundo1);
+  color: var(--colorGeral);
+  font-family: var(--montserrat);
+  text-align: center;
+}
+
+.times_container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 1em 0 1em 0;
+}
+
+.times_titulo {
+  font-size: 1.25rem;
+  text-transform: uppercase;
+}
+
+.times_grupo {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+}
+
+@media screen and (max-width: 768px) {
+  .times_grupo {
+    flex-direction: column;
+  }
+}

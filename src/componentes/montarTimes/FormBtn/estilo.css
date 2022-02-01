@@ -1,0 +1,23 @@
+.montarTimes_botao-gerar {
+  background-color: #2a9d8f;
+  cursor: pointer;
+  border-radius: 5px;
+  font-family: var(--montserrat);
+  font-size: 0.8rem;
+  font-weight: 400;
+  margin-top: 5px;
+  margin-right: 15px;
+  padding: 0.5rem;
+}
+
+.montarTimes_botao-limpar {
+  background-color: #e76f51;
+  cursor: pointer;
+  border-radius: 5px;
+  font-family: var(--montserrat);
+  font-size: 0.8rem;
+  font-weight: 400;
+  margin-top: 5px;
+  margin-right: 15px;
+  padding: 0.5rem;
+}

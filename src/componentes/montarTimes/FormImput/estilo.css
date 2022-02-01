@@ -1,0 +1,25 @@
+.montarTimes_grupo {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+}
+
+.montarTimes_input-1 {
+  border-radius: 5px;
+  display: inline-block;
+  margin-bottom: 1rem;
+  margin-top: 5px;
+  text-align: left;
+  width: auto;
+}
+
+.montarTimes_input-label {
+  font-size: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+  .montarTimes_grupo {
+    flex-direction: column;
+  }
+}

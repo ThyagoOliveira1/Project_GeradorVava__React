@@ -1,0 +1,28 @@
+.montarTimes {
+  background-color: var(--fundo2);
+  color: var(--colorGeral);
+  font-family: var(--montserrat);
+  text-align: center;
+}
+
+.montarTimes_container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 1em 0 1em 0;
+}
+
+.montarTimes_titulo {
+  font-size: 1.25rem;
+  text-transform: uppercase;
+}
+
+.montarTimes_texto {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: normal;
+  margin: auto;
+  padding-bottom: 1em;
+  text-align: justify;
+}
+

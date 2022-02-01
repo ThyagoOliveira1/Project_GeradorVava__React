@@ -13,10 +13,10 @@ class Header extends Component {
                 <a href="#sobre">Sobre</a>
               </li>
               <li className="cabecalho_nav_item">
-                <a href="#teamMaker">Montar Times</a>
+                <a href="#montarTimes">Montar Times</a>
               </li>
               <li className="cabecalho_nav_item">
-                <a href="#patch_Notes">Patch Notes</a>
+                <a href="#patchNotes">Patch Notes</a>
               </li>
               <li className="cabecalho_nav_item">
                 <a href="#contato">Contato</a>

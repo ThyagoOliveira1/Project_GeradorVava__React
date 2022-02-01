@@ -1,0 +1,27 @@
+.sobre {
+  background-color: var(--fundo1);
+  color: var(--colorGeral);
+  font-family: var(--montserrat);
+  text-align: center;
+}
+
+.sobre_container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 1em 0 1em 0;
+}
+
+.sobre_titulo {
+  font-size: 1.7em;
+  text-transform: uppercase;
+}
+
+.sobre_texto {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: normal;
+  margin: auto;
+  text-align: justify;
+}
+
